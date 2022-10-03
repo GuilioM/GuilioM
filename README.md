@@ -8,7 +8,8 @@ I've been working in different I.T. roles with Project Management responsibiliti
 
 *   🌍  I'm based in Belize 🇧🇿
 *   ✉️  You can contact me at [guiliomarin1995@gmail.com](mailto:guiliomarin1995@gmail.com)
-*   🧠  I'm learning M.E.R.N.
+*   🧠  I'm studying a Master's in Computing and Information Systems
+*   💻  You can find me battling it out at <a href="https://www.codewars.com/users/GuilioM" target="_blank" rel="noreferrer">CodeWars</a>
 
 ### Skills
 <p align="left">
