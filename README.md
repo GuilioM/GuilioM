@@ -1,7 +1,7 @@
 Hi 👋 My name is Guilio Marin
 =============================
 
-Technical Solutions Manager
+Technical Sales Solutions Manager
 ---------------------------
 
 I've been working in different I.T. roles with Project Management responsibilities, however, I've studied computer science and enjoy collaborating
